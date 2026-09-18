@@ -1,0 +1,30 @@
+{
+  "adLogicChecks": 10,
+  "allPassed": true,
+  "realNetworkRequests": 0,
+  "browserRenderingTested": false,
+  "liveAdSenseTested": false,
+  "htmlChecks": [
+    {
+      "page": "index.html",
+      "localReferencesChecked": 15,
+      "oneH1": true,
+      "imageAltAttributes": true,
+      "uniqueIDs": true,
+      "autoplay": false
+    },
+    {
+      "page": "privacy.html",
+      "localReferencesChecked": 11,
+      "oneH1": true,
+      "imageAltAttributes": true,
+      "uniqueIDs": true,
+      "autoplay": false
+    }
+  ],
+  "imagesReadable": true,
+  "trailerSeconds": 30,
+  "reusedLogoIconAndTrailerByteIdentical": true,
+  "relativePathsWorkAtRootOrProjectSubpath": true,
+  "published": false
+}
